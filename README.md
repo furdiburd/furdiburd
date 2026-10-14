@@ -36,3 +36,21 @@ alt="Nagyon szuper youtube link" width="240" height="180" border="10" /></a>
 | :-------: | ---------------- |
 | <img src="https://github.com/user-attachments/assets/b0136512-56a5-4856-8c50-4971c957a24f" alt="Get PixelCat for Firefox"> | <a href="https://addons.mozilla.org/hu/firefox/addon/pixelcat/">Firefox Add-ons</a> |
 | <img src="https://github.com/user-attachments/assets/5463ef88-873b-4516-8514-5277664cfde7" alt="Get PixelCat for Chromium"> | <a href="https://chromewebstore.google.com/detail/pixelcat/dldingneekoadmkonniioablbennibfa">Chrome Web Store</a> |
+
+## Doom
+
+Kattints a képre a Doom E1M1 pályájának lejátszásához közvetlenül ebben a README-ben:
+
+<p align="center">
+<a href="menu/episode_1.md">
+<img src="static/start-visual.gif" alt="Click to Play DOOM" width="640">
+</a>
+<br>
+</p>
+
+### A Doom projekt felépítése
+
+- `assets/` – a pálya előre renderelt képei
+- `game/` – a játékmenet navigációs Markdown-fájljai
+- `menu/` – a játék indítómenüje
+- `static/` – a játék előnézeti képei és GIF-jei
